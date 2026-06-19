@@ -1,0 +1,6 @@
+{
+  "name": "L'Atelier du Pizzaiolo",
+  "description": "Un site web moderne, premium et responsive pour le restaurant italien L'Atelier du Pizzaiolo à Alger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
